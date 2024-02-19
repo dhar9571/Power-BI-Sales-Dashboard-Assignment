@@ -2,6 +2,9 @@
 
 **Dashboard link**: https://www.novypro.com/project/sales-dashboard---power-bi-power-bi-1
 
+![Power Bi Assignment](https://github.com/dhar9571/Power-BI-Sales-Dashboard-Assignment/assets/125559410/abf8b9b4-7d56-48cd-901c-7c4df51cb3c1)
+
+
 **Objective**:
 
 Developed a comprehensive dashboard for the purpose of monitoring and analyzing the sales performance throughout Belgium, France and Netherlands.
